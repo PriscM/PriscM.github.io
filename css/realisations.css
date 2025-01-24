@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 24 janv. 2025, 16:44:50
+    Author     : Itia
+*/
+
+.bd-place-img {font-size: 1.125rem; 
+              text-anchor: middle; 
+              -webkit-user-select:none;
+              -moz-user-select: none;
+              user-select: none;             
+}
+
+@media (min-width: 768px){
+    .bd-placeholder-img-lg{font-size: 3.5rem;}
+}
+
+.jumbotron {margin-bottom: 0px;}
