@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 24 janv. 2025, 11:36:16
+    Author     : Itia
+*/
+.presentation {
+     width:50%;
+    margin:auto;
+}
+.presentation div{
+    display: flex;
+    flex-direction: row;
+    gap:15px;
+    justify-content: center;
+    margin-bottom: 15px;
+}
